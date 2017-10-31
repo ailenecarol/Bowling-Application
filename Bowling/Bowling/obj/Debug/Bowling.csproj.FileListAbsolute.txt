@@ -1,0 +1,14 @@
+C:\Users\Scott Frye\source\repos\Bowling\Bowling\bin\Debug\Bowling.exe.config
+C:\Users\Scott Frye\source\repos\Bowling\Bowling\bin\Debug\Bowling.exe
+C:\Users\Scott Frye\source\repos\Bowling\Bowling\bin\Debug\Bowling.pdb
+C:\Users\Scott Frye\source\repos\Bowling\Bowling\obj\Debug\Bowling.csprojResolveAssemblyReference.cache
+C:\Users\Scott Frye\source\repos\Bowling\Bowling\obj\Debug\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\Scott Frye\source\repos\Bowling\Bowling\obj\Debug\Bowling.exe
+C:\Users\Scott Frye\source\repos\Bowling\Bowling\obj\Debug\Bowling.pdb
+C:\Users\Ailene\source\repos\GROUP PROJECT\Bowling\Bowling\bin\Debug\Bowling.exe.config
+C:\Users\Ailene\source\repos\GROUP PROJECT\Bowling\Bowling\bin\Debug\Bowling.exe
+C:\Users\Ailene\source\repos\GROUP PROJECT\Bowling\Bowling\bin\Debug\Bowling.pdb
+C:\Users\Ailene\source\repos\GROUP PROJECT\Bowling\Bowling\obj\Debug\Bowling.csprojResolveAssemblyReference.cache
+C:\Users\Ailene\source\repos\GROUP PROJECT\Bowling\Bowling\obj\Debug\Bowling.csproj.CoreCompileInputs.cache
+C:\Users\Ailene\source\repos\GROUP PROJECT\Bowling\Bowling\obj\Debug\Bowling.exe
+C:\Users\Ailene\source\repos\GROUP PROJECT\Bowling\Bowling\obj\Debug\Bowling.pdb
